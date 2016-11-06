@@ -1,9 +1,9 @@
 {
   "manifest_version": 2,
-  "name": "Herp Derp for YouTube™",
-  "version": "1.6.0",
+  "name": "Herp Derp for YouTube™ (blah de blah remix)",
+  "version": "1.6.0.1",
   "homepage_url": "http://www.tannr.com",
-  "description": "Significantly improves YouTube comments by replacing them with random herps and derps.",
+  "description": "Significantly improves YouTube comments by replacing them with random blah de blahs.",
   "icons": { 
      "48": "herp48.png",
      "128": "herp128.png"
