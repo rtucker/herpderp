@@ -1,13 +1,13 @@
 // selectors for comments
 var selectors = ['.Ct', '.comment-renderer-text-content'];
 
-// builds a string with random herps and derps
+// builds a string with random blahs and des
 var derpString = function() {
   var randomLength = Math.floor(Math.random()*20)+1;
   var returnString = '';
 
   for (x=0; x<=randomLength; x++) {
-    returnString += (Math.floor(Math.random()*2) ? 'herp ' : 'derp ');
+    returnString += (Math.floor(Math.random()*2) ? 'blah ' : 'de ');
   }
   
   return returnString;
